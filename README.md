@@ -4,7 +4,7 @@
 This repository contains a Jupyter Notebook demonstrating **Non-Intrusive Load Monitoring (NILM)** using **Federated Learning**. The goal is to disaggregate household energy consumption data while preserving user privacy by leveraging decentralized machine learning techniques.
 
 ## Features
-- Implementation of **Federated Learning** for NILM.
+- Implementation of **Federated Learning** for NILM through **FedAVG, FedSR, FedADG, and FedDA**.
 - Uses real-world **energy datasets**.
 - **Privacy-preserving** approach by keeping user data on local devices.
 - Training across multiple clients using **PyTorch/Federated Learning frameworks**.
@@ -54,9 +54,5 @@ The notebook implements a deep learning model using **CNNs** for NILM disaggrega
 Contributions are welcome! Please fork the repository, create a branch, and submit a pull request with improvements.
 
 
-## Contact (Including Dataset)
+## Contact 
 For any queries or discussions, feel free to reach out via GitHub Issues or email `Fares.alkhawaja@gmail.com`.
-
----
-Happy Coding! 🚀
-
